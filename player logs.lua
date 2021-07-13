@@ -1,9 +1,3 @@
--------------
-USERNAME = "GetRickRolled"
--------------
-
-
-
 repeat wait() until game.Players:FindFirstChild(USERNAME) -- change the name to urs
 
 -- Gui to Lua
